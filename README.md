@@ -4,7 +4,7 @@
 
 <h3 style="color:#E03A3A"> Preview: </h3>
 
-[🔗Portfolio link🔗](https://pauldebangan1970.github.io/Porfolio/)
+[🔗Portfolio link🔗](https://debangan202ok.github.io/Porfolio/)
 
 <div style="border:2px solid #73C8EE;border-radius:10px;overflow:hidden"><img src="./snapshot/desktoprev.png"></div>
 
